@@ -16,3 +16,9 @@ Refreshing the Fox Theater website for Mobile
 * Every day there will be workshop time for you to apply these skills.
 * Class time and workshop time is MANDATORY—any additional time you spend on making your project great is up to you.
 * Take photos to document the steps of your design process.
+
+###PROGRESSION
+
+Sketches, Wireframes, First Clickable Prototype
+
+
