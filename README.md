@@ -23,7 +23,9 @@ Sketches, Wireframes, First Clickable Prototype
 
 ###FIRST MVP
 
-Ideas tossed to backlog: social aspect for Fox members to interact with each other. Try it out here:
+Ideas tossed to backlog: social aspect for Fox members to interact with each other. 
+
+Try it out here:https://phamous2day.github.io/foxRefresh/
 
 
 ###AFTER MANY ITERATIONS, THIS IS THE FINAL MVP
