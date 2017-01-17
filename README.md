@@ -21,4 +21,16 @@ Refreshing the Fox Theater website for Mobile
 
 Sketches, Wireframes, First Clickable Prototype
 
+###FIRST MVP
 
+Ideas tossed to backlog: social aspect for Fox members to interact with each other. Try it out here:
+
+
+###AFTER MANY ITERATIONS, THIS IS THE FINAL MVP
+
+[![animation of final MVP Fox theater ticket buying site](images/foxTHEATER.gif)](https://vimeo.com/199380079 "Fox Theater Mobile Site")
+
+Based off of many user research and user testing, we collected all the feedback and pain points and based the designs and navigation.
+
+###TRY IT HERE
+https://invis.io/RC9ZB93PM
