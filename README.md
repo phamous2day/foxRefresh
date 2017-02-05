@@ -11,7 +11,7 @@ Refreshing the Fox Theater website for Mobile
 ## Approach/Strategy
 * Heuristics analysis of current website to find any pain points, competitive analysis to find strengths and weaknesses of rivals.
 * Screener survey to filter user testers, follow-up survey to get refined idea of user flow and pain points.
-* Sketch and wireframes, rapid prototyping and user testing via Invision
+* Sketch and wireframes, rapid prototyping and user testing via Invision.
 
 ## Insight/What I learned
 Every stage of the UX process is important. In this project, identifying the pain points in the user flow revealed to us a simple flip in the ticket-purchasing process would increase sales and social aspect of the website. For example, the current setup is to select seat section first, then specify the amount of seats which makes a recursive problem for the user to keep going back and forth with those 2 screens to find seats that would accomodate a ticket-buyer's friends.
