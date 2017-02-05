@@ -2,7 +2,7 @@
 Refreshing the Fox Theater website for Mobile
 
 
-## THE CHALLENGE
+## The Challenge
 
 * Work as part of a design team. 
 * Design a mobile experience for an Atlanta-based company. 
@@ -27,10 +27,10 @@ Ideas tossed to backlog: social aspect for Fox members to interact with each oth
 Try it out here:https://phamous2day.github.io/foxRefresh/
 
 
-##AFTER MANY ITERATIONS, THIS IS THE FINAL MVP
+##Final MVP
 
 [![animation of final MVP Fox theater ticket buying site](images/foxTHEATER.gif)](https://vimeo.com/199380079 "Fox Theater Mobile Site")
 
 
-##TRY IT HERE
+##Try it here
 https://invis.io/RC9ZB93PM
