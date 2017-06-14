@@ -19,18 +19,18 @@ Every stage of the UX process is important. In this project, identifying the pai
 *Solution* To make seat selection first, _then_ specify the seat section which makes the user flow smoother and allow any matching algorithm to prioritize the amount of seats to choose seats by proximity rather than quantity.
 
 
----
+-------------------------------------------------------------------------------------
 
-##FIRST MVP
+## FIRST MVP
 
 Ideas tossed to backlog: social aspect for Fox members to interact with each other. 
 Try it out here:https://phamous2day.github.io/foxRefresh/
 
 
-##Final MVP
+## Final MVP
 
 [![animation of final MVP Fox theater ticket buying site](images/foxTHEATER.gif)](https://vimeo.com/199380079 "Fox Theater Mobile Site")
 
 
-##Try it here
+## Try it here
 https://invis.io/RC9ZB93PM
